@@ -91,7 +91,7 @@ const main = (()  =>     {
             selectedButton.style.background = "";
         } 
         
-        e.style.background = "orange";
+        e.style.background = "#a47c1e";
         selectedButton = e;
 
         setCustomerRate(e.innerHTML);
