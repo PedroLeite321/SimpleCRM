@@ -1,0 +1,16 @@
+*   {
+
+    box-sizing:border-box;
+    padding:0;
+    border: 0;
+    margin: 0;
+    font-family:'Poppins', Arial, Helvetica, sans-serif;
+    
+    /* Variables */
+
+    --main-bg--color: #252f37;
+    --main-color: rgb(23,30,40);
+    --gradient-color: linear-gradient(180deg, rgba(23,30,40,1) 0%, rgba(33,40,50,1) 100%);
+    --round-selection-numbers-color:#262f36;
+    
+}
